@@ -46,6 +46,10 @@
 
     button{
         color: blue;
+        font-family: Times;
+        border-radius: 10px;
+        border-color: green;
+
     }
     #btnA {
         font-size: 20px;
