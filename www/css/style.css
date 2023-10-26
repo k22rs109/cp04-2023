@@ -26,9 +26,11 @@
         position:absolute; top:340px; 
         left:2%;
         font-weight: bold;
+        border-color: green;
         box-shadow: 2px 2px 5px;
         width: 46%;
         margin: 0 auto;
+        background-color: yellowgreen;
     }
     
     #time {
@@ -37,10 +39,12 @@
         text-align: center;
         position:absolute; top:340px; 
         left:50%;
+        border-color: green;
         box-shadow: 2px 2px 5px;
         width: 50%;
         margin: 0 auto;
         font-weight: bold;
+        background-color: yellowgreen;
     }
     
     #mycanvas {
@@ -82,12 +86,12 @@
 
     #btnE {
         font-size: 20px;
-        position:absolute; top:5px; Right:2%; width:40%; height:60px; 
+        position:absolute; top:10px; Right:2%; width:40%; height:60px; 
     }
 
     #btnF {
         font-size: 20px;
-        position:absolute; top:65px; Right:2%; width:40%; height:60px; 
+        position:absolute; top:70px; Right:2%; width:40%; height:60px; 
     }
     
     #minute {
